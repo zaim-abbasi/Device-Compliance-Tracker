@@ -1,7 +1,3 @@
-Here’s the updated and visually engaging README with the changes you requested:
-
----
-
 # 🌐 Intranet Monitoring System
 
 ## 📋 Overview
